@@ -1,0 +1,9 @@
+*.zip
+*.gz
+*.tgz
+*.json
+*.csv
+*.txt
+*.xlsx
+*.dio
+*-checkpoint.ipynb
