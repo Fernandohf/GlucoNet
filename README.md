@@ -21,7 +21,8 @@ The file `Data Analysis.ipynb` shows all the steps needed to feed the data in Re
 
 # Results
 The models were used to predict the blood glucose during a period of 5 hours after a 10 hour prime period. The results are shown bellow.
-!(https://i.imgur.com/nnP6ws1.png)
+
+![](https://i.imgur.com/nnP6ws1.png)
 
 # Next Steps
 Unfortunately, the data description and quality is lacking. Currently, I am searching for a more robust dataset which could result in more reliable and efficient models. Hopefully, reducing the prime period and increasing the predictions window.
